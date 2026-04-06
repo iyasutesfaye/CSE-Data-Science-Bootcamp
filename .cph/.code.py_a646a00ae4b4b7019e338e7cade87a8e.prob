@@ -1,0 +1,1 @@
+{"name":"Local: code","url":"/Users/iyasu/CODE/Python/code.py","tests":[{"id":1773427544370,"input":"19\n4 6 7 8 9 11 23 34","output":"4 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/iyasu/CODE/Python/code.py","group":"local","local":true}
