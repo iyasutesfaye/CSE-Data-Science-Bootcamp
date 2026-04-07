@@ -1,8 +1,21 @@
 # Statistical Engineering & Simulation
 
 ## Overview
-This project implements a statistical engine from scratch using pure Python.
 
+This project implements a statistical engine from scratch using pure Python.
+statistical_engine/
+│
+├── data/
+│   └── sample_salaries.json
+├── src/
+│   ├── __init__.py
+│   ├── stat_engine.py
+│   └── monte_carlo.py
+├── tests/
+│   ├── __init__.py
+│   └── test_stat_engine.py
+├── README.md
+└── main.py
 ## Mathematical Logic
 Variance:
 - Population: Σ(x - μ)² / n
